@@ -68,6 +68,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ========
 #### 其他库
  * [mall](https://github.com/macrozheng/mall) - 一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+ * [miaosha](https://github.com/qiurunze123/miaosha) - 秒杀系统设计与实现.互联网工程师进阶与分析。
 
 ========
 #### 博客与播客及书籍文档
