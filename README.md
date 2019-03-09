@@ -81,6 +81,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [miaosha](https://github.com/qiurunze123/miaosha) - 秒杀系统设计与实现.互联网工程师进阶与分析。
  * [quartz-explained](https://github.com/nkcoder/quartz-explained) - 对定时任务调度框架quartz源码的分析和注释。
  * [commonmark-java](https://github.com/atlassian/commonmark-java) - Java版本的markdown处理库。
+ * [emoji-java](https://github.com/vdurmont/emoji-java) - 将emoji表情和Unicode互相转换的库。
 
 ========
 #### 博客与播客及书籍文档
