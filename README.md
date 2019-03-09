@@ -55,7 +55,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ========
 #### 网络相关
  * [Netty-socketio](https://github.com/mrniko/netty-socketio) - http://Socket.IO 的Netty实现（做聊天室可以用）。
-
+ * [BT](https://github.com/atomashpolskiy/bt) - Java种子下载程序（我什么都不知道啊）。
+ 
 ========
 #### 语视频与音相关
 
