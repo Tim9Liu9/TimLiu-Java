@@ -31,6 +31,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ========
 #### 机器学习与人工智能AI
+ * [HanLP](https://github.com/hankcs/HanLP) - 强大的自然语言处理、中文分词库，国人开发。
 
 ========
 #### Web框架
