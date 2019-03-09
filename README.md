@@ -82,6 +82,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [quartz-explained](https://github.com/nkcoder/quartz-explained) - 对定时任务调度框架quartz源码的分析和注释。
  * [commonmark-java](https://github.com/atlassian/commonmark-java) - Java版本的markdown处理库。
  * [emoji-java](https://github.com/vdurmont/emoji-java) - 将emoji表情和Unicode互相转换的库。
+ * [asciimg](https://github.com/korhner/asciimg) - 用Java编写的ascii图像生成器。
 
 ========
 #### 博客与播客及书籍文档
