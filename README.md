@@ -40,6 +40,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ##### 其他Web相关
  * [scribejava](https://github.com/scribejava/scribejava) - 一个简单的 Java 实现的 OAuth/OAuth2 库。
+ * [diablo](https://github.com/ihaolin/diablo) - 轻量的分布式配置管理平台。
 
 ========
 #### 数据库相关
