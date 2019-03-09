@@ -60,6 +60,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  
 ========
 #### 语视频与音相关
+ * [mp3agic](https://github.com/mpatric/mp3agic) - Java版本的MP3音频处理库。
 
 ========
 #### 游戏相关
