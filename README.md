@@ -42,6 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ========
 #### 数据库相关
+ * [sql2o](https://github.com/aaberg/sql2o) - 小而美的数据库操作框架，性能略屌。
 
 ========
 #### 网络爬虫
