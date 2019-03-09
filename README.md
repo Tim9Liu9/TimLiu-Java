@@ -91,3 +91,4 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ========
 #### 他人总结
+ * [maven-framework-project](https://github.com/v5developer/maven-framework-project) - 使用Maven搭建了N个例子的大而全的工程。
