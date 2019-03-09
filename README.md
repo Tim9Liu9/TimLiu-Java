@@ -1,7 +1,7 @@
 # TimLiu-Java
 Java开发常用三方库、插件、知名博客等等
 
-欢迎加入交QQ流群:  592912831
+欢迎加入交QQ流群:  592912831 (加群密码：TimLiu-Java)
 
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 ###  目录
@@ -38,6 +38,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [blade](https://github.com/lets-blade/blade) - 一款轻量级、高性能、简洁优雅的MVC框架。
 
 ##### 其他Web相关
+ * [scribejava](https://github.com/scribejava/scribejava) - 一个简单的 Java 实现的 OAuth/OAuth2 库。
 
 ========
 #### 数据库相关
