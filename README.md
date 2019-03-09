@@ -35,6 +35,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ========
 #### Web框架
 ##### JaveEE
+ * [blade](https://github.com/lets-blade/blade) - 一款轻量级、高性能、简洁优雅的MVC框架。
 
 ##### 其他Web相关
 
