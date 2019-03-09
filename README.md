@@ -32,6 +32,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ========
 #### 机器学习与人工智能AI
  * [HanLP](https://github.com/hankcs/HanLP) - 强大的自然语言处理、中文分词库，国人开发。
+ * [telegram-bot-api](https://github.com/biezhi/telegram-bot-api) - Java版 telegram api，帮你快速创建小机器人。
 
 ========
 #### Web框架
