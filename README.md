@@ -87,6 +87,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [commonmark-java](https://github.com/atlassian/commonmark-java) - Java版本的markdown处理库。
  * [emoji-java](https://github.com/vdurmont/emoji-java) - 将emoji表情和Unicode互相转换的库。
  * [asciimg](https://github.com/korhner/asciimg) - 用Java编写的ascii图像生成器。
+ * [hutool](https://github.com/looly/hutool) - Java的工具类实现，非常全，有中文注释。
 
 ========
 #### 博客与播客及书籍文档
