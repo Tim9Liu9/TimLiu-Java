@@ -84,7 +84,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - 也是一个热替换的插件，支持Tomcat、OSGI、JBoss、Jetty等集成。
  * [lombok](https://github.com/rzwitserloot/lombok) - 自动生成代码的一个工具，提高开发效率。
  * [quartz-explained](https://github.com/nkcoder/quartz-explained) - 对定时任务调度框架quartz源码的分析和注释。
- * [Guava]( https://github.com/google/guava) - Google提供的java库函数,guava cache和guava限流的实现很有参考价值。
+ * [Guava](https://github.com/google/guava) - Google提供的java库函数,guava cache和guava限流的实现很有参考价值。
+ * [RxJava](https://github.com/ReactiveX/RxJava) - java平台的Reactive 扩展。
 
 ========
 #### 安全与破解相关
