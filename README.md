@@ -64,7 +64,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [BT](https://github.com/atomashpolskiy/bt) - Java种子下载程序（我什么都不知道啊）。
  * [grpc-java]( https://github.com/grpc/grpc-java) - rpc框架java实现。
  * [okio](https://github.com/square/okio) - 高性能的IO库。
-   
+ * [okhttp](https://github.com/square/okhttp) - square提供的http客户端。
+ 
 ========
 #### 语视频与音相关
  * [mp3agic](https://github.com/mpatric/mp3agic) - Java版本的MP3音频处理库。
