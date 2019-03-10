@@ -50,6 +50,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 数据库相关
  * [sql2o](https://github.com/aaberg/sql2o) - 小而美的数据库操作框架，性能略屌。
  * [mapdb](https://github.com/jankotek/mapdb) - 一个快速且易于使用的嵌入式Java数据库引擎。
+ * [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) - 数据库分库分表、读写分离的一个中间件。
 
 ========
 #### 网络爬虫
