@@ -45,7 +45,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [diablo](https://github.com/ihaolin/diablo) - 轻量的分布式配置管理平台。
  * [jetbrick-template-2x](https://github.com/subchen/jetbrick-template-2x) - 高性能和高扩展性的模板引擎。
 
-
 ========
 #### 数据库相关
  * [sql2o](https://github.com/aaberg/sql2o) - 小而美的数据库操作框架，性能略屌。
@@ -74,7 +73,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 测试与代码分析审核
  * [jvm-tools](https://github.com/aragozin/jvm-tools) - JVM诊断和分析工具。
  * [metrics](https://github.com/dropwizard/metrics) - 让你能够洞察你的代码在生产环境做了些什么。
- 
+ * [spring-loaded](https://github.com/spring-projects/spring-loaded) - spring开源的一个热替换插件,运行时监听class文件的变更并执行transform。
+
 ========
 #### 安全与破解相关
 
