@@ -82,7 +82,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [spring-loaded](https://github.com/spring-projects/spring-loaded) - spring开源的一个热替换插件,运行时监听class文件的变更并执行transform。
  * [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - 也是一个热替换的插件，支持Tomcat、OSGI、JBoss、Jetty等集成。
  * [lombok](https://github.com/rzwitserloot/lombok) - 自动生成代码的一个工具，提高开发效率。
- 
+ * [quartz-explained](https://github.com/nkcoder/quartz-explained) - 对定时任务调度框架quartz源码的分析和注释。
+ * [Guava]( https://github.com/google/guava) - Google提供的java库函数,guava cache和guava限流的实现很有参考价值。
+
 ========
 #### 安全与破解相关
 
@@ -93,7 +95,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 其他库
  * [mall](https://github.com/macrozheng/mall) - 一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
  * [miaosha](https://github.com/qiurunze123/miaosha) - 秒杀系统设计与实现.互联网工程师进阶与分析。
- * [quartz-explained](https://github.com/nkcoder/quartz-explained) - 对定时任务调度框架quartz源码的分析和注释。
  * [commonmark-java](https://github.com/atlassian/commonmark-java) - Java版本的markdown处理库。
  * [emoji-java](https://github.com/vdurmont/emoji-java) - 将emoji表情和Unicode互相转换的库。
  * [asciimg](https://github.com/korhner/asciimg) - 用Java编写的ascii图像生成器。
