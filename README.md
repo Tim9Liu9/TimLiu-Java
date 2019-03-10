@@ -74,7 +74,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [jvm-tools](https://github.com/aragozin/jvm-tools) - JVM诊断和分析工具。
  * [metrics](https://github.com/dropwizard/metrics) - 让你能够洞察你的代码在生产环境做了些什么。
  * [spring-loaded](https://github.com/spring-projects/spring-loaded) - spring开源的一个热替换插件,运行时监听class文件的变更并执行transform。
-
+ * [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - 也是一个热替换的插件，支持Tomcat、OSGI、JBoss、Jetty等集成。
+ 
 ========
 #### 安全与破解相关
 
