@@ -17,7 +17,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [视频与语音相关](#语视频与音相关)
 - [游戏相关](#游戏相关)
 - [测试与代码分析审核](#测试与代码分析审核)
-- [热更新](#热更新)
+- [热更新与效率](#热更新与效率)
 - [安全与破解相关](#安全与破解相关)
 - [IDE](#IDE)
 - [其他库](#其他库)
@@ -62,7 +62,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 网络相关
  * [Netty-socketio](https://github.com/mrniko/netty-socketio) - http://Socket.IO 的Netty实现（做聊天室可以用）。
  * [BT](https://github.com/atomashpolskiy/bt) - Java种子下载程序（我什么都不知道啊）。
- 
+ * [grpc-java]( https://github.com/grpc/grpc-java) - rpc框架java实现。
+
 ========
 #### 语视频与音相关
  * [mp3agic](https://github.com/mpatric/mp3agic) - Java版本的MP3音频处理库。
@@ -76,9 +77,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [metrics](https://github.com/dropwizard/metrics) - 让你能够洞察你的代码在生产环境做了些什么。
  
 ========
-#### 热更新
+#### 热更新与效率
  * [spring-loaded](https://github.com/spring-projects/spring-loaded) - spring开源的一个热替换插件,运行时监听class文件的变更并执行transform。
  * [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - 也是一个热替换的插件，支持Tomcat、OSGI、JBoss、Jetty等集成。
+ * [lombok](https://github.com/rzwitserloot/lombok) - 自动生成代码的一个工具，提高开发效率。
  
 ========
 #### 安全与破解相关
@@ -95,7 +97,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [emoji-java](https://github.com/vdurmont/emoji-java) - 将emoji表情和Unicode互相转换的库。
  * [asciimg](https://github.com/korhner/asciimg) - 用Java编写的ascii图像生成器。
  * [hutool](https://github.com/looly/hutool) - Java的工具类实现，非常全，有中文注释。
- * [lombok](https://github.com/rzwitserloot/lombok) - 自动生成代码的一个工具，提高开发效率。
 
 ========
 #### 博客与播客及书籍文档
