@@ -99,6 +99,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 第三方应用
  * [WxJava](https://github.com/Wechat-Group/WxJava) - 可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发。
  * [spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill) - 从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓，码云GVP项目。这个是自5月以来最上心的一个项目，尽管只是一个案例，但是从中也学到了不少知识。
+ * [spring-boot-mail](https://gitee.com/52itstyle/spring-boot-mail) - 邮件发送服务，文本，附件，模板，队列，多线程，定时任务实现多种功能。
 
 ========
 #### 其他库
