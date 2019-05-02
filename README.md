@@ -113,6 +113,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [spring-boot-pay](https://gitee.com/52itstyle/spring-boot-pay) - 支付服务：支付宝、微信、银联详细 代码案例，十分钟快速搭建一个支付服务，内附各种教程。
  * [spring-boot-quartz](https://gitee.com/52itstyle/spring-boot-quartz) - 基于spring-boot+quartz的CRUD任务管理系统 。
  * [spring-boot-doc](https://gitee.com/52itstyle/spring-boot-doc) - spring-boot-doc是一款针对IT团队开发的简单好用的文档管理系统。
+ * [spring-boot-fastdfs](https://gitee.com/52itstyle/spring-boot-fastdfs) - 集成了分布式文件系统：Distributed file system, DFS。
 
 ========
 #### 博客与播客及书籍文档
