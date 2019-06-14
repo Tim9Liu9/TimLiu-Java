@@ -47,6 +47,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [scribejava](https://github.com/scribejava/scribejava) - 一个简单的 Java 实现的 OAuth/OAuth2 库。
  * [diablo](https://github.com/ihaolin/diablo) - 轻量的分布式配置管理平台。
  * [jetbrick-template-2x](https://github.com/subchen/jetbrick-template-2x) - 高性能和高扩展性的模板引擎。
+ * [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) - 一款基于代码生成器的JAVA快速开发平台！全新架构前后端分离：SpringBoot 2.x，Ant Design&Vue&，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。
 
 ========
 #### 数据库相关
