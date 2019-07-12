@@ -116,6 +116,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [spring-boot-doc](https://gitee.com/52itstyle/spring-boot-doc) - spring-boot-doc是一款针对IT团队开发的简单好用的文档管理系统。
  * [spring-boot-fastdfs](https://gitee.com/52itstyle/spring-boot-fastdfs) - 集成了分布式文件系统：Distributed file system, DFS。
  * [xufei_msc](https://gitee.com/52itstyle/xufei_msc) - 讯飞语音JavaWeb语音合成解决方案。
+ * [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
 ========
 #### 博客与播客及书籍文档
