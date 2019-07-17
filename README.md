@@ -118,7 +118,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [xufei_msc](https://gitee.com/52itstyle/xufei_msc) - 讯飞语音JavaWeb语音合成解决方案。
  * [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
  * [VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台! 
-
+ * [uid-generator](https://github.com/baidu/uid-generator) - 基于 Snowflake 算法的唯一 ID 生成器。UidGenerator 以组件形式工作在应用项目中， 支持自定义 workerId 位数和初始化策略，从而适用于 docker 等虚拟化环境下实例自动重启、漂移等场景。在实现上，UidGenerator 通过借用未来时间来解决 sequence 天然存在的并发限制；采用 RingBuffer 来缓存已生成的 UID, 并行化 UID 的生产和消费， 同时对 CacheLine 补齐，避免了由 RingBuffer 带来的硬件级「伪共享」问题。最终单机 QPS 可达 600 万。
+ 
 ========
 #### 博客与播客及书籍文档
 
