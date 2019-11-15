@@ -102,6 +102,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [spring-boot-seckill](https://gitee.com/52itstyle/spring-boot-seckill) - 从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓，码云GVP项目。这个是自5月以来最上心的一个项目，尽管只是一个案例，但是从中也学到了不少知识。
  * [spring-boot-mail](https://gitee.com/52itstyle/spring-boot-mail) - 邮件发送服务，文本，附件，模板，队列，多线程，定时任务实现多种功能。
  * [spring-boot-elasticsearch](https://gitee.com/52itstyle/spring-boot-elasticsearch) - ES全文搜索引擎，基于Elasticsearch构建网站日志处理系统，通过数据同步工具等一些列开源组件来快速构建一个日志处理系统，项目雏形初步成型中。
+ * [gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch http://vip.istio.tech/。
 
 ========
 #### 其他库
